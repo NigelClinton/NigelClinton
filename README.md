@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **SQL**
 
-- 📫 How to reach me **nigeljamesclinton@gmail.com**
+- 📫 How to reach me - **nigeljamesclinton@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
