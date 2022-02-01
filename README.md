@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nigel Clinton</h1>
 <h3 align="center">A passionate Data Scientist from Sarasota, Florida</h3>
 
+- 🤔 Exploring new ways to - **automate processes**
+
 - 🌱 I’m currently learning - **Python**
 
 - 💬 Ask me about - **SQL**
+
+- 💬 Open for project collaboration
+
+- 📫 How to reach me - **via email:** nigeljamesclinton@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
