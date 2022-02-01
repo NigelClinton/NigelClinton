@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 Some of my projects are available at [https://www.kaggle.com/nigelclinton](https://www.kaggle.com/nigelclinton)
-
 - 💬 Ask me about **SQL**
 
 - 📫 How to reach me **nigeljamesclinton@gmail.com**
