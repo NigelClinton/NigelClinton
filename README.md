@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nigel Clinton</h1>
 <h3 align="center">A passionate Data Scientist from Sarasota, Florida</h3>
 
+I am a Bloomtech Institute of Technology graduate student, who is passionate about Machine Learning and Flask web applications. I enjoy roles that are challenging and diverse. I enjoy both leading projects and contributing at a high level and appreciate roles that allow me to do both. In doing that I am able to wear a variety of 'hats' in order to get the job done.
+
 - 🤔 Exploring new ways to - **Automate processes**
 
 - 🌱 I’m currently learning - **Python**
@@ -14,6 +16,8 @@
 <a href="https://twitter.com/nigel_clinton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nigel_clinton" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nigel-clinton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nigel-clinton" height="30" width="40" /></a>
 <a href="https://kaggle.com/nigelclinton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nigelclinton" height="30" width="40" /></a>
+  <a href="https://app.codesignal.com/profile/nigel_ds" target="blank"><img align="center" src="![CodeSignal_Logo_Square_w_Name_Blue_Large](https://user-images.githubusercontent.com/87384142/154476286-e8e8213c-8d64-45ff-bd32-c2ce02e00c89.jpg)
+" alt="nigelclinton" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
