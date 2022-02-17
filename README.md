@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nigel Clinton</h1>
 <h3 align="center">A passionate Data Scientist from Sarasota, Florida</h3>
 
-<p align="center">I am a Bloomtech Institute of Technology graduate student, who is passionate about Machine Learning and Flask web applications. I enjoy roles that are challenging and diverse. I enjoy both leading projects and contributing at a high level and appreciate roles that allow me to do both. In doing that I am able to wear a variety of 'hats' in order to get the job done.</p>
-
 <p align="center">- 🤔 Exploring new ways to - Automate processes<p/>
 
 <p align="center">- 🌱 I’m currently learning - Python<p/>
