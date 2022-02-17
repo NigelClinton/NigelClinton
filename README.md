@@ -7,9 +7,10 @@
 
 <p align="center">- 🌱 I’m currently learning - **Python**<p/>
 
+<p align="center">- 💬 Open for project collaboration<p/>
+
 <p align="center">- 💬 Ask me about - **SQL**<p/>
 
-<p align="center">- 💬 Open for project collaboration<p/>
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
