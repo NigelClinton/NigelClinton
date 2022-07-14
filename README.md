@@ -7,8 +7,6 @@
 
 <p align="center">- 💬 Open for project collaboration<p/>
 
-<p align="center">- 💬 Ask me about - SQL<p/>
-
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
