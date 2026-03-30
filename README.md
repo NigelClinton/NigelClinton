@@ -10,10 +10,9 @@
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nigel_clinton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nigel_clinton" height="30" width="40" /></a>
+  <a href="https://kaggle.com/nigelclinton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nigelclinton" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nigel-clinton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nigel-clinton" height="30" width="40" /></a>
-<a href="https://kaggle.com/nigelclinton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nigelclinton" height="30" width="40" /></a>
-  <a href="https://app.codesignal.com/profile/nigel_ds" target="blank"><img align="center" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d05ac7a08655a06682d42e6c8f44e804/codesignal.png" alt="nigelclinton" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
